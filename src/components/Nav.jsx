@@ -23,7 +23,7 @@ function Nav({numberOfItems}) {
                     </Link>
                 </li>
                 <li className='nav__list'>
-                    <Link to="/books" className='nav__link'>
+                    <Link to="/books" className='nav__link nav__link--primary'>
                         Books
                     </Link>
                 </li>

@@ -59,7 +59,7 @@ li {
 
 h1 {
   font-size: 56px;
-  color: #7342d6;
+  color: #3D9ACE;
   margin-bottom: 24px;
   text-align: center;
 }
@@ -79,7 +79,7 @@ button:active {
 }
 
 .btn {
-  background-color: #7342d6;
+  background-color: #3D9ACE;
   color: white;
   padding: 12px 24px;
   font-size: 20px;
@@ -88,7 +88,7 @@ button:active {
 }
 
 .purple {
-  color: #7342d6;
+  color: #3D9ACE;
 }
 
 .logo {
@@ -110,7 +110,7 @@ button:active {
   font-size: 20px;
   font-weight: bold;
   padding: 8px;
-  color: #7342d6;
+  color: #3D9ACE;
 }
 
 .nav__list {
@@ -125,7 +125,7 @@ button:active {
 }
 
 .nav__link--primary {
-  border: 2px solid #7342d6;
+  border: 2px solid #3D9ACE;
   border-radius: 4px;
 }
 
@@ -137,7 +137,7 @@ button:active {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #7342d6;
+  color: #3D9ACE;
   font-size: 20px;
   position: relative;
   margin-left: 8px;
@@ -163,7 +163,7 @@ button:active {
   background-color: transparent;
   font-size: 32px;
   border: none;
-  color: #7342d6;
+  color: #3D9ACE;
   display: none;
 }
 
@@ -224,7 +224,7 @@ LANDING
 */
 
 #landing {
-  background-color: rgba(115, 66, 214, 0.1)
+  background-color: rgba(51, 149, 224, 0.1)
 }
 
 header {
@@ -334,8 +334,8 @@ HIGHLIGHTS
 }
 
 .highlight__img {
-  border: 2px solid #7342d65d;
-  color: #7342d6;
+  border: 2px solid #35a5e6;
+  color: #3D9ACE;
   width: 100px;
   height: 100px;
   display: flex;
@@ -358,7 +358,7 @@ FEATURES
 
 #features {
   padding-top: 8vw;
-  background-color: rgba(115, 66, 214, 0.1);
+  background-color: rgba(51, 149, 224, 0.1);
 }
 
 .books {
@@ -448,7 +448,7 @@ EXPLORE
 */
 
 #explore {
-  background-color: rgba(115, 66, 214, 0.1);
+  background-color: rgba(51, 149, 224, 0.1);
 }
 
 /* 
@@ -488,7 +488,7 @@ BOOKS PAGE
 */
 
 #books__body {
-  background-color: rgba(115, 66, 214, 0.1);
+  background-color: rgba(51, 149, 224, 0.1);
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -530,7 +530,7 @@ select {
   justify-content: center;
   padding-top: 60px;
   font-size: 60px;
-  color: #7342d6;
+  color: #3D9ACE
 }
 
 .fa-spinner {
@@ -636,7 +636,7 @@ select {
 */
 
 .cart__header {
-  background-color: #7342d6;
+  background-color: #3D9ACE;
   margin: 0 24px;
   padding: 8px 16px;
   color: white;
@@ -729,7 +729,7 @@ select {
 }
 
 .total__sub-total {
-  border-top: 2px solid #7342d6;
+  border-top: 2px solid #3D9ACE;
   padding-top: 24px;
 }
 
