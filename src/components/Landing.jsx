@@ -1,5 +1,5 @@
 import React from 'react'
-import UndrawBooks from '../assets/Undraw_Books.svg'
+import UndrawBooks from '../assets/undraw_reading_time_re_phf7.svg'
 
  function Landing() {
   return (

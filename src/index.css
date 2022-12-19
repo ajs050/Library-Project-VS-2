@@ -93,6 +93,7 @@ button:active {
 
 .logo {
   width: 160px;
+  filter: invert(58%) sepia(41%) saturate(686%) hue-rotate(157deg) brightness(86%) contrast(94%);
 }
 
 .nav__container {
@@ -248,7 +249,6 @@ header {
 }
 
 .header__img--wrapper {
-  padding: 20px;
 
   /* Added this after the tutorial to 
   show it over the wave on larger screens */
@@ -256,7 +256,7 @@ header {
   
   /* Added this after the tutorial to 
   make landing page responsive on laptops */
-  max-height: 50vh;
+  max-height: 55vh;
 }
 
 .container {
